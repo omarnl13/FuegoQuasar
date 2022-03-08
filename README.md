@@ -13,7 +13,7 @@ Se implemento el patron de diseño de software MVC
 # Despliegue
 ![alt text](https://github.com/omarnl13/FuegoQuasar/blob/main/src/main/resources/Captura1.png)
 ![alt text](https://github.com/omarnl13/FuegoQuasar/blob/main/src/main/resources/Captura2.png)
-![alt text](https://github.com/omarnl13/FuegoQuasar/blob/main/src/main/resources/Captura4.png)
+![alt text](https://github.com/omarnl13/FuegoQuasar/blob/main/src/main/resources/Captura3.png)
 
 # URL de prueba
 Para probar el desarrollo hacer uso de la siguiente dirección en un cliente REST
